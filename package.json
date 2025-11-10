@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site - use vercel serve'",
     "lint": "next lint"
   },
   "dependencies": {
